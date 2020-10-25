@@ -1,1 +1,1 @@
-class CreateUser < ActiveRecord
+class CreateUser < ActiveRecord::Migration
