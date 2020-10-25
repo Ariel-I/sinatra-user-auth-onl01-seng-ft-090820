@@ -1,5 +1,6 @@
 class CreateUser < ActiveRecord::Migration[5.1]
   
-  def change do 
+  def change 
+    create_table :Users
   
 end 
