@@ -1,1 +1,1 @@
-class CreateUser
+class CreateUser < ActiveRecord
